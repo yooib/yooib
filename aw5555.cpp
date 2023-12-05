@@ -1,7 +1,10 @@
 #include<stdio.h>
 int main()
 {
+
 	printf("dayin");
+	printf("dayinhaole");
+
 	int n;
 	scanf("%d",&n);
 	int k = n % 10;
@@ -11,6 +14,8 @@ int main()
 	}
 	else n-=k;
 	printf("%d\n",n );
+
+	printf("tail")
 
 	return 0;
 }
