@@ -28,6 +28,7 @@ int main()
 			printf("%s",a[1]);
 		printf("\n");
 		printf("\n");
+		printf("\n");
 	}
 	
 	
