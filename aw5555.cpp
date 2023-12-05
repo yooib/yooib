@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+	printf("dayin");
 	int n;
 	scanf("%d",&n);
 	int k = n % 10;
