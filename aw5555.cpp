@@ -10,6 +10,6 @@ int main()
 	}
 	else n-=k;
 	printf("%d\n",n );
-
+	printf("tail")
 	return 0;
 }
